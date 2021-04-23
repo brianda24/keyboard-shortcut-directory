@@ -1,0 +1,74 @@
+{
+  "program": “Story Planner”,
+  "groups": [{
+    "title": “Global”,
+    "shortcuts": [{
+      "command": “New Project”,
+      "shortcut": "cmd+n”
+    }, {
+      "command": “New Item”,
+      "shortcut": “shift+cmd+n”
+    }, {
+      "command": “Duplicate Project”,
+      "shortcut": "cmd+d”
+    }, {
+      "command": “Duplicate Item”,
+      "shortcut": “shift+cmd+d”
+    }, {
+      "command": “Create Backup”,
+      "shortcut": “shift+cmd+b”
+    }, {
+      "command": “Export Project”,
+      "shortcut": "shift+cmd+e"
+    }, {
+      "command": “Open Project in New Window”,
+      "shortcut": "cmd+ret”
+    }, {
+      "command": "Open Item in New Window",
+      "shortcut": “shift+cmd+ret"
+    }, {
+      "command": “Mark/Unmark Scene as Complete",
+      "shortcut": "shift+cmd+c”
+    }, {
+      "command": “Show/Hide Projects Search Bar”,
+      "shortcut": "cmd+f”
+    }, {
+      "command": "Show/Hide Items Search Bar",
+      "shortcut": “shift+cmd+f"
+    }, {
+    "title": “Navigate”,
+    "shortcuts": [{
+      "command": “Show/Hide Sidebar",
+      "shortcut": "cmd+1”
+    }, {
+      "command": “Open/Close Card Fullscreen",
+      "shortcut": "cmd+2”
+    }, {
+      "command": “Show/Hide Info Buttons",
+      "shortcut": “alt+cmd+9”
+    }, {
+      “command”: “Go to Next Project”,
+      “shortcut”: “ctrl+alt+cmd+down”
+    }, {
+      “command”: “Go to Previous Project”,
+      “shortcut”: “ctrl+alt+cmd+up”
+   }, {
+      “command”: “Go to Next Item”,
+      “shortcut”: “ctrl+cmd+down”
+   }, {
+      “command”: “Go to Previous Item”,
+      “shortcut”: “ctrl+cmd+up”
+   }, {
+      “command”: “Go to Last Item”,
+      “shortcut”: “ctrl+cmd+right”
+   }, {
+      “command”: “Go to Next Tab”,
+      “shortcut”: “ctrl+]”
+   }, {
+      “command”: “Go to Previous Tab”,
+      “shortcut”: “ctrl+[”
+    }]
+
+  }]
+
+}
